@@ -4,7 +4,7 @@
 
 <div id="badges" align="center">
   <p> </p>
-  <a href=""><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="https://linkedin.com/in/brian-mbigo-82a321234"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
   <p><img src="https://komarev.com/ghpvc/?username=BKMbigo&style=plastic&color=blue" alt=""/></p>
 </div>
 
@@ -23,7 +23,7 @@
   
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BKMbigo&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  <!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)--->
 </div>
   
 <!---
