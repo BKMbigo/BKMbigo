@@ -4,7 +4,7 @@
 
 <div id="badges" align="center">
   <p> </p>
-  <a href="https://linkedin.com/in/brian-mbigo-82a321234"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="https://linkedin.com/in/bkmbigo"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
   <p><img src="https://komarev.com/ghpvc/?username=BKMbigo&style=plastic&color=blue" alt=""/></p>
 </div>
 
