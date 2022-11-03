@@ -38,13 +38,13 @@
   
   
   
-  <p>
+<!--   <p>
     <a href="https://wakatime.com/@bkmbigo"><img src="https://wakatime.com/share/@bkmbigo/ade24ceb-278a-4012-b752-57befe9892b1.png" width="35%"/></a>
     <a href="https://wakatime.com/@bkmbigo"><img src="https://wakatime.com/share/@bkmbigo/197f8f9c-9c1f-4143-9db8-de49e490b3f5.png" width="35%"/></a>
   </p>
 
 
-  <a href="https://wakatime.com/@bkmbigo"><img src="https://wakatime.com/share/@bkmbigo/ca9e7297-c4f9-4bab-85e3-512f551e82f4.png" /></a>
+  <a href="https://wakatime.com/@bkmbigo"><img src="https://wakatime.com/share/@bkmbigo/ca9e7297-c4f9-4bab-85e3-512f551e82f4.png" /></a> -->
 
 </div>
   
