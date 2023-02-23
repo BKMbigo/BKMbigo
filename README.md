@@ -13,8 +13,8 @@
 
 
 - 👋 Hi, I’m @BKMbigo
-- 👀 I’m interested in Android Development, Web Development
-- 🌱 I’m currently learning Web Development
+- 👀 I’m interested in Android Development
+- 🌱 I’m currently learning Kotlin Multiplatform
 
 ---
 
